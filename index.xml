@@ -6,8 +6,15 @@
     <description>Recent content in Home on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Apr 2026 15:56:20 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 17:00:00 +0300</lastBuildDate>
     <atom:link href="https://astroreen.github.io/ilja.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://astroreen.github.io/ilja.github.io/about/</link>
+      <pubDate>Wed, 15 Apr 2026 17:00:00 +0300</pubDate>
+      <guid>https://astroreen.github.io/ilja.github.io/about/</guid>
+      <description>&lt;h2 id=&#34;who-am-i&#34;&gt;Who Am I?&lt;/h2&gt;&#xA;&lt;p&gt;Just a student learning how to create websites with Hugo and GitHub Pages. Nothing fancy, just pure dedication and a lot of coffee.&lt;/p&gt;&#xA;&lt;h2 id=&#34;my-impressive-stats&#34;&gt;My &amp;ldquo;Impressive&amp;rdquo; Stats&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Clients:&lt;/strong&gt; 10 (mostly imaginary, but who&amp;rsquo;s counting?)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Experience:&lt;/strong&gt; Started yesterday, already a pro&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Technologies:&lt;/strong&gt; HTML, Markdown, and the art of copying from documentation&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Success Rate:&lt;/strong&gt; 60% of the time, it works every time&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;what-i-do&#34;&gt;What I Do&lt;/h2&gt;&#xA;&lt;p&gt;I turn coffee into websites. Sometimes they even work on the first try.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Test</title>
       <link>https://astroreen.github.io/ilja.github.io/posts/test/</link>
